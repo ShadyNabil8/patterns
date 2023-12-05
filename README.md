@@ -18,3 +18,7 @@ The Factory Method defines a method, which should be used for creating objects i
 1. Solves the problem of creating product objects without specifying their concrete classes.
 2. Provide making customization before creating an object.
 3. Makes it easy to extend the number of classes (Books in our example) without affecting the rest of the application.
+
+# Abstract Factory
+
+We use this pattern when there is more than one level of classes.
